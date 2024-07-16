@@ -6,8 +6,8 @@ $x^{2}+5y^{2}+4xy-6y+9 \geq 0$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Alg
 
 </small>
 
@@ -38,8 +38,8 @@ $\sphericalangle ADE=12 \beta$. Aprēķināt $\beta$ lielumu!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Geom
 
 </small>
 
@@ -68,8 +68,8 @@ ar $7$ un kura ciparu summa ir $K$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -102,8 +102,8 @@ ka vienas rūtiņas mala ir vienu vienību gara?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -127,8 +127,8 @@ Pierādīt, ka trijstūra augstumi nevar būt $19, 37$ un $41$ vienību gari!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -157,8 +157,8 @@ y^{2}=x+2
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -204,8 +204,8 @@ $AB$ trīs vienāda garuma nogriežņos!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -272,7 +272,7 @@ izteikti centimetros. Aprēķināt šī trijstūra laukumu!
 
 <small>
 
-* questionType:
+* questionType:FindAll
 * domain:
 
 </small>
@@ -349,8 +349,8 @@ $Piezīme.$ Katru dienu var ēst veselu nenegatīvu skaitu sieriṇu.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindOptimal
+* domain:Comb
 
 </small>
 
@@ -400,7 +400,7 @@ Vai eksistē tāds naturāls skaitlis, kuram vienlaikus izpildās šādas trīs 
 <small>
 
 * questionType:ProveDisprove
-* domain:
+* domain:NT
 
 </small>
 
@@ -423,8 +423,8 @@ Pierādīt, ka $AB=CD$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
