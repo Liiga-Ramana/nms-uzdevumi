@@ -506,7 +506,7 @@ izteikti centimetros. Aprēķināt šī trijstūra laukumu!
 
 <small>
 
-* questionType:
+* questionType:FindAll
 * domain:
 
 </small>
@@ -583,8 +583,8 @@ naturālu skaitli reizinājums dalās ar $N^{2}$. Kuri skaitlļi nav amizanti?
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:NT
 
 </small>
 
