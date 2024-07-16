@@ -268,7 +268,7 @@ Apskatām divus gadījumus.
 # <lo-sample/> LV.VOL.2022.10.4
 
 Vienādojuma $x^{3}-40 x^{2}+511x-2040=0$ saknes ir trijstūra malu garumi, kas 
-izteikti centimetros. Aprēkināt šī trijstūra laukumu!
+izteikti centimetros. Aprēķināt šī trijstūra laukumu!
 
 <small>
 
