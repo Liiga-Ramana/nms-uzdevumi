@@ -579,7 +579,7 @@ S=\sqrt{27(27-24)(27-15-\sqrt{80})(27-15+\sqrt{80})}= \\
 # <lo-sample/> LV.VOL.2022.11.5
 
 Naturālu skaitli $N$ sauksim par $amizantu$, ja katru $N$ secīgu 
-naturālu skaitli reizinājums dalās ar $N^{2}$. Kuri skaitlļi nav amizanti?
+naturālu skaitļu reizinājums dalās ar $N^{2}$. Kuri skaitļi nav amizanti?
 
 <small>
 
@@ -590,22 +590,22 @@ naturālu skaitli reizinājums dalās ar $N^{2}$. Kuri skaitlļi nav amizanti?
 
 ## Atrisinājums
 
-Pamatosim, ka amizanti nav visi pirmskaitli, kā arī skaitlis $4$.
+Pamatosim, ka amizanti nav visi pirmskaitļi, kā arī skaitlis $4$.
 
 Ja $p$ ir pirmskaitlis, tad pirmo $p$ skaitļu reizinājums 
 $1 \cdot 2 \cdot \ldots p$ nedalās ar $p^{2}$, jo neviens no pirmajiem $p-1$ 
-skaitliem nedalās ar $p$.
+skaitļiem nedalās ar $p$.
 
 Pirmo $4$ skaitļu reizinājums $1 \cdot 2 \cdot 3 \cdot 4$ nedalās ar $4^{2}$, 
 tātad skaitlis $4$ nav amizants.
 
-Pierādīsim, ka visi pārējie skaitli ir amizanti. Ja $N$ ir salikts skaitlis, 
+Pierādīsim, ka visi pārējie skaitļi ir amizanti. Ja $N$ ir salikts skaitlis, 
 kas ir lielāks nekā $4$, tad to var izteikt kā reizinājumu $N=a \cdot b$, kur 
 $a \geq 2$ un $b \geq 3$. Tātad $N \geq 2 b$ un $N \geq 3 a$. No $N$ pēc kārtas
 sekojošiem skaitļiem viens noteikti dalās ar $N$. Tā kā $2 b \leq N$, tad vēl 
 vismaz viens cits no šiem $N$ pēc kārtas sekojošiem skaitļiem dalās ar $b$. Tā 
 kā $3a \leq N$, tad vēl vismaz divi citi no šiem $N$ pēc kārtas sekojošiem 
-skaitļiem dalās ar $a$ (tas nozīmē, ka kāds no šiem diviem skaitliem, kas dalās
+skaitļiem dalās ar $a$ (tas nozīmē, ka kāds no šiem diviem skaitļiem, kas dalās
 ar $a$, noteikti nesakrīt ar to skaitli, kas dalās ar $b$ ). Tātad $N$ pēc 
 kārtas sekojošu skaitļu reizinājums dalās ar $N \cdot b \cdot a=N^{2}$.
 
@@ -616,8 +616,8 @@ Atrisināt reālos skaitļos vienādojumu $x^{2}-\cos x+1=0$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:FindAll
+* domain:Alg
 
 </small>
 
@@ -635,8 +635,8 @@ Pierādīt, ka $EF=\frac{|AD+BC-AB-CD|}{2}$.
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -708,8 +708,8 @@ pirmskaitlis!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:NT
 
 </small>
 
@@ -719,7 +719,7 @@ No kubu summas formulas $a^{3}+b^{3}=(a+b)\left(a^{2}-ab+b^{2}\right)$ redzams,
 ka $a^{3}+b^{3}$ dalās ar $(a+b)$. Apskatīsim divus iespējamos gadījumus.
 
 * Ja ir pāra skaits secīgu naturālu skaitļu, tas ir, $2k$ secīgi naturāli 
-  skaitli, kur $k=1,2,\ldots $, tad šo skaitlu summu var uzrakstīt kā
+  skaitļi, kur $k=1,2,\ldots $, tad šo skaitļu summu var uzrakstīt kā
 
 $$S=(n-k+1)^{3}+(n-k+2)^{3}+\cdots+(n+k-1)^{3}+(n+k)^{3}.$$
 
@@ -733,7 +733,7 @@ Tā kā visas šīs $k$ summas dalās ar $(2n+1)$, tad arī visu $2k$ kubu summa
 dalās ar $(2n+1)$, līdz ar to nav pirmskaitlis.
 
 * Ja ir nepāra skaits secīgu naturālu skaitļu, tas ir, $(2k+1)$ secīgi naturāli
-  skaitli, kur $k=1,2,\ldots $, tad šo skaitļu summu var uzrakstīt kā
+  skaitļi, kur $k=1,2,\ldots $, tad šo skaitļu summu var uzrakstīt kā
 
 $$S=(n-k)^{3}+(n-(k-1))^{3}+\ldots +(n-1)^{3}+n^{3}+(n+1)^{3}+\ldots +(n+(k-1))^{3}+(n+k)^{3}.$$
 
@@ -757,7 +757,7 @@ izteikti centimetros. Aprēķināt šī trijstūra laukumu!
 
 <small>
 
-* questionType:
+* questionType:FindAll
 * domain:
 
 </small>
@@ -804,7 +804,7 @@ $$\begin{aligned}
 
 # <lo-sample/> LV.VOL.2022.12.5
 
-Kvadrātu ar izmēriem $9 \times 9$ rūtiņas pa rūtiņu līinjām sadalīja deviņos 
+Kvadrātu ar izmēriem $9 \times 9$ rūtiņas pa rūtiņu līnijām sadalīja deviņos 
 daudzstūros, kas katrs satur tieši $9$ rūtiņas, un katru no tiem nokrāsoja citā
 krāsā. Katrā dotā kvadrāta rindā un katrā kolonnā atrodas tieši trīs dažādu 
 krāsu rūtiņas. Pierādīt, ka visi iegūtie daudzstūri ir kvadrāti ar izmēriem 
@@ -812,8 +812,8 @@ $3 \times 3$ rūtiņas!
 
 <small>
 
-* questionType:
-* domain:
+* questionType:Prove
+* domain:Geom
 
 </small>
 
@@ -836,7 +836,7 @@ $$\frac{p_{x}+p_{y}}{2} \geq \sqrt{p_{x} \cdot p_{y}} \geq \sqrt{9}=3.$$
 Tātad $p_{x}+p_{y} \geq 6$, pie tam vienādība izpildās tikai tad, ja 
 $p_{x}=p_{y}=3$.
 
-Tā kā katrā rindā un katrā kolonnā ir tieši trīs dažādu krāsu rūtinas, tad 
+Tā kā katrā rindā un katrā kolonnā ir tieši trīs dažādu krāsu rūtiņas, tad 
 katrā rindā projekciju summa ir $1+1+1=3$ un arī katrā kolonnā projekciju summa
 ir $1+1+1=3$. Tātad visu projekciju garumu kopsumma ir 
 $3 \cdot 9($ rindas $)+3 \cdot 9$ (kolonnas $)=54$. Līdz ar to katrai no deviņu
