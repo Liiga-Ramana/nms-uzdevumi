@@ -469,9 +469,9 @@ atbilstošie elementi ir vienādi, tad $AB=CD$.
 Sākumā uz papīra lapas uzrakstīts skaitlis $16$. Ja uz lapas ir
 
 - uzrakstīts skaitlis $x$, tad uz tās atlauts uzrakstīt arī skaitli $x^{2}$;
-- uzrakstiti skaitļi $x$ un $y$, tad uz tās atļauts uzrakstīt arī skaitli $|x-y|+1$.
+- uzrakstīti skaitļi $x$ un $y$, tad uz tās atļauts uzrakstīt arī skaitli $|x-y|+1$.
 
-Vai var panākt, lai uz lapas būtu uzrakstïts skaitlis $2022$ (neviens 
+Vai var panākt, lai uz lapas būtu uzrakstīts skaitlis $2022$ (neviens 
 uzrakstītais skaitlis netiek nodzēsts)?
 
 <small>
